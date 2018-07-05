@@ -123,11 +123,11 @@ public class PersonDao {
 
                 idOverPerson.put(personId, personFromDb);
 
-                petFromDb = new Pet(dbResult.getInt(5), dbResult.getString(6), dbResult.getString(7), dbResult.getInt(8));
+                petFromDb = new Pet(dbResult.getString(6), dbResult.getString(7), dbResult.getInt(8));
                 personFromDb.addPet(petFromDb);
             }else {
                 personFromDb = idOverPerson.get(personId);
-                petFromDb = new Pet(dbResult.getInt(5), dbResult.getString(6), dbResult.getString(7), dbResult.getInt(8));
+                petFromDb = new Pet(dbResult.getString(6), dbResult.getString(7), dbResult.getInt(8));
                 personFromDb.addPet(petFromDb);
 
             }

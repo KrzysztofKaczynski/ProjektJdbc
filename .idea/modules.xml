@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Jdbc-Course/Jdbc-Course.iml" filepath="$PROJECT_DIR$/Jdbc-Course/Jdbc-Course.iml" />
       <module fileurl="file://$PROJECT_DIR$/JdbcExercises/JdbcExercises.iml" filepath="$PROJECT_DIR$/JdbcExercises/JdbcExercises.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ProjektJdbc.iml" filepath="$PROJECT_DIR$/.idea/ProjektJdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cwiczenia/cwiczenia.iml" filepath="$PROJECT_DIR$/cwiczenia/cwiczenia.iml" />
     </modules>
   </component>
 </project>
