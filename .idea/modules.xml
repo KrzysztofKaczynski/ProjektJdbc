@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Jdbc-Course/Jdbc-Course.iml" filepath="$PROJECT_DIR$/Jdbc-Course/Jdbc-Course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JdbcExercises/JdbcExercises.iml" filepath="$PROJECT_DIR$/JdbcExercises/JdbcExercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ProjektJdbc.iml" filepath="$PROJECT_DIR$/.idea/ProjektJdbc.iml" />
+    </modules>
+  </component>
+</project>
