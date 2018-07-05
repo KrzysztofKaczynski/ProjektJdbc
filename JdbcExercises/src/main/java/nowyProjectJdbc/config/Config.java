@@ -7,7 +7,7 @@ import java.sql.SQLException;
 public class Config {
     private static final String DB_H2_URL = "jdbc:h2:tcp://localhost/~/test/testdb";
     private  static  Config instance;
-    Connection connection;
+    private Connection connection;
 
     private Config(){
 

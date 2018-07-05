@@ -18,8 +18,8 @@ public class Pet {
                 '}';
     }
 
-    public Pet(int id, String kind, String name, int age) {
-        this.id = id;
+    public Pet(String kind, String name, int age) {
+        this.id = -1;
         this.kind = kind;
         this.name = name;
         this.age = age;
